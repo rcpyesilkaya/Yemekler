@@ -1,0 +1,1021 @@
+﻿{"yemekler":[ 
+	{
+	"yemek_id":1,
+	"yemek_adi":"Mercimek Çorbası",
+	"yemek_aciklama":"Derin bir tencereye 3 yemek kaşığı sıvı yağ ekleyin. İri doğranmış 1 adet büyük soğanı sıvı yağ ile birlikte kavurun.
+Kavrulan soğanlara 1 yemek kaşığı unu ekleyin ve kokusu çıkıp, renk alana kadar kavurma işlemini sürdürün. İri parçalar halinde doğradığınız birer adet havuç ve patatesi tencereye aktarıp karıştırmaya devam edin.
+Tuz, karabiber ve bol suda yıkadıktan sonra suyunu süzdürdüğünüz 1,5 su bardağı mercimeği  de ilave edin ve son kez güzelce karıştırın.6 su bardağı suyu da tencereye ilave edin.Ardından kapağını kapatın, patates ve havuçlar yumuşayana kadar ara ara karıştırarak 40 dakika kadar pişirin.Çorba piştikten sonra pürüzsüz bir kıvam alması için; el blenderından geçirin. 5 dakika daha pişirdikten sonra ocaktan alın.3 yemek kaşığı sıvı yağ ve 2 yemek kaşığı tereyağını bir tavada kızdırın. 
+Üzerine 1 tatlı kaşığı toz kırmızı biberi ekleyin ve 2 dakika yağı kızdırdıktan sonra ocaktan alın.Çorbayı bir kaseye alın ve üzerine kızdırdığınız yağdan gezdirip servis edin.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"50dk",
+	"yemek_kisi_sayisi":"6 Kişilik
+	"yemek_video":"https://www.youtube.com/watch?v=9kmOW_eqdq8",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/baharatli_mercimek_corbasi-c855fb12-22ae-46ff-89c9-1ada1f73b4af.jpg",
+	"yemek_malzeme":"3 yemek kaşığı ayçiçek yağı 
+1 adetkuru soğan(iri doğranmış)
+1 yemek kaşığı un 
+1 adethavuç(iri doğranmış) 
+1 adetpatates(büyük boy, iri doğranmış)
+1 tatlı kaşığı tuz 
+1 çay kaşığı karabiber 
+1,5 su bardağı kırmızı ya da sarı mercimek
+6 su bardağı sıcak su(1 adet et su tablet ile hazırlanmış)"
+	},
+	{
+	"yemek_id":2,
+	"yemek_adi":"Sütlü Buğday Çorbası",
+	"yemek_aciklama":"Yarma buğdayı bir tencereye alın ve üzerini geçecek kadar su ekleyip 20 dakika kadar haşlayın. Sütü ve tuzu ilave edip 10 dakika daha kaynatın.
+Tereyağını küçük bir sos tavasında eritin ve sumağı ekleyip ha?f kavurun. Çorbayı servis kaselerine paylaştırdıktan sonra üzerlerine sumaklı tereyağını gezdirip servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"25 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=2ViiPtYBdfk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/sutlu-bugday-corbasi-b4a60b6a-e060-48d5-be26-044edf8a5585.jpg",
+	"yemek_malzeme":" 4-5 yemek kaşığı yarma buğday
+ Yarım lt süt
+ 1 çay kaşığı tuz
+ 1 yemek kaşığı tereyağı
+ 1 çay kaşığı sumak"
+	},
+	{
+	"yemek_id":3,
+	"yemek_adi":"Tavuk Suyu Çorbası",
+	"yemek_aciklama":"Soğanı soyup bol su ile acılığının gitmesini sağlayınız. Soğanı çok küçük olmayan parçalara bölerek tencereye koyunuz.
+İyice yıkanmış tavuk göğsü ve tavuk budunu da tencereye ekleyiniz. Dilerseniz tavukları da birkaç parçaya bölebilirsiniz.
+Suyu da ekleyerek tencereyi ocağa alın. Tavuklar pişene kadar kaynatın (30-35 dakika)
+Pişen tavukları bir tabağa alarak soğumasını bekleyin. Etler soğuyunca kemikleri ayıklayıp, tavukları küçük küçük parçalar haline getirin.
+Başka bir tavada tereyağı ile unu kavurun. Unun çiğ kokusu çıktıktan sonra tavuk suyu ile birleştirin.
+Topaklanmaması için iyice ve hızlıca karıştırın. Üzerine tuz ve karabiberi ekleyerek tavuk suyunu blenderdan geçirin.
+Sonuç olarak tavuk suyunun pürüzsüz bir kıvama ulaşması gerekiyor.
+Kıvamını tutturduğumuz tavuk suyuna küçük parçalar halinde didiklediğimiz tavuk etlerini de ekliyoruz.
+Tavuk suyu çorbasını 10 dakika son haliyle kaynatıyoruz. Sıcak çorbanın üzerine limon ve pul biber ekleyerek servis edebilirsiniz. Afiyet olsun.
+",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"40 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=1foCujBe6HY",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/tavuk-suyu-corbasi-51b5d9c6-aae4-405b-ba85-4a63bfb327a6.jpg",
+	"yemek_malzeme":" 1 tane tavuk göğsü
+1 tane tavuk budu
+6 su bardağı su
+1 tane kuru soğan (isteğe bağlı)
+1 yemek kaşığı un
+1 yemek kaşığı tereyağı
+1 çay kaşığı tuz
+Yarım çay kaşığı karabiber
+Yarım limon"
+	},
+	{
+	"yemek_id":4,
+	"yemek_adi":"Domates Çorbası",
+	"yemek_aciklama":"Domatesleri rendeleyip geniş bir tencereye alın. Sıcak su ve zeytinyağını ilave edin. Tuz ve baharatlarla tatlandırıp kaynatın. Kısık ateşte 15 dakika daha pişirin. Üzerini dilimlediğiniz mozarella peyniri ve ince kıydığınız fesleğenle süsleyerek sıcak servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"30 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=RNagJgRSZqw",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/domates_corbasi-945c60f5-5a15-4d06-9753-4ec8f2aeee9e.jpg",
+	"yemek_malzeme":" 8 domates
+2 su bardağı sıcak su
+Zeytinyağı
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":5,
+	"yemek_adi":"Kremalı Bezelye Çorbası",
+	"yemek_aciklama":"Hafif haşladığınız bezelyeye, dörde böldüğünüz soğan, pirinç ve suyu ilave edin. Tuz ve karabiberle tatlandırıp kaynatın. Bezelyeler iyice yumuşayıncaya kadar kısık ateşte pişirip ocaktan alın. Pürüzsüz bir kıvam elde edinceye kadar blenderdan geçirip bir taşım daha kaynatın. Pazılı ve çedar peynirli tost için iri doğradığınız pazı ve rendelenmiş çedar peynirini bir kasede karıştırın. Harcı tost ekmeklerinin arasına yerleştirip üzerine tereyağı sürün ve tost makinesinde kızartın. Kızaran tostu üç dikdörtgen elde edecek şekilde dilimleyin. ikiye kesin. Çorbanızı yanında tostla sıcak servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"30 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=FvmPM6YwMKY",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kremali_bezelye_corbasi-83ba9576-adc5-49cd-9c7a-0a2cf08ff645.jpg",
+	"yemek_malzeme":" 3 su bardağı hafif haşlanmış bezelye
+1 soğan
+1 çay bardağı pirinç
+4 yemek kaşığı labne peyniri
+Tuz
+Karabiber
+1 su bardağı krema
+-Pazılı ve çedar peynirli tost
+2 dilim tost ekmeği
+2~3 yaprak pazı
+1 çay bardağı rendelenmiş çedar peyniri"
+	},
+	{
+	"yemek_id":6,
+	"yemek_adi":"Sebzeli Kış Çorbası",
+	"yemek_aciklama":"Yemeklik doğradığınız soğanı ve ezdiğiniz sarımsağı zeytinyağında pembeleşinceye kadar soteleyin. Küp doğradığınız karnabahar, brokoli, domates, kurutulmuş domates ve ince kıydığınız kereviz saplarını ilave edip 3-4 dakika soteleyin. Dolmalık fıstık, tavuk suyu, tuz ve baharatları ilave edip kaynatın. Çorba kaynadıktan sonra altını kısıp sebzeler iyice yumuşayıncaya kadar pişirin. Sıcak servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"40 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=kawDYIgOjL4",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/sebzeli_kis_corbasi-a8393712-6312-405c-b414-72cae11f625c.jpg",
+	"yemek_malzeme":" 1 soğan
+2 diş sarımsak
+4 yemek kaşığı zeytinyağı
+3~4 parça karnabahar
+3~4 parça brokoli
+1 domates
+7~8 parça kurutulmuş domates
+2 dal kereviz sapı
+1 çay bardağı dolmalık fıstık
+5 su bardağı tavuk suyu
+Tuz
+Karabiber
+Kırmızı pul biber
+Nane
+Fesleğen"
+	},
+	{
+	"yemek_id":7,
+	"yemek_adi":"Yoğurt Çorbası",
+	"yemek_aciklama":"Bir gün önceden ıslattığınız buğdayı et suyunda yumuşayıncaya kadar pişirin. Kıymayı büyük bir kaseye alın. Karabiber ve tuz ekleyerek yoğurun. Küçük parçalar kopararak küçük köfteler hazırlayın. Tencereye yoğurt, soğan suyu ve iri doğranmış ıspanak köklerini alın. Kaynayınca köfteleri ekleyin. Tereyağını tavada eritin. Kuru naneyi kızgın yağda kavurarak çorbaya ilave edin. Servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"20 dk",
+	"yemek_kisi_sayisi":"12 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=TjT4iYETVec",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/yogurt_corbasi-79de52c6-34ef-44a1-989d-7080c7d8fbda.jpg",
+	"yemek_malzeme":" 10 su bardağı et suyu
+1 su bardağı aşurelik buğday
+2 yemek kaşığı haşlanmış nohut
+800 gr süzme yoğurt
+1 soğanın suyu
+15 ıspanak kökü
+30 gr tereyağı
+50 gr kıyma
+1 çay kaşığı karabiber
+1 tatlı kaşığı kuru nane
+1 tatlı kaşığı tuz"
+	},
+	{
+	"yemek_id":8,
+	"yemek_adi":"Mantar Çorbası",
+	"yemek_aciklama":"Mantarları temizleyip tencereye alın ve üzerini geçecek kadar su ekleyin. Tereyağının yarısını tencerede eritin. Kıyılmış soğan, sarımsak ve taze kekiği ekleyerek yumuşayana kadar kavurun. Mantarları sudan çıkarıp süzün ve soğana ekleyerek 5 dakika daha pişirin. Sebze suyunu ekleyip 20 dakika kaynatın. Tuzla tatlandırın. Kremayı da ekleyerek 3 dakika daha pişirin. Çorbayı blender’la ezin. Çorbayı kruton ile süsleyerek servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"25 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=JBAdPEQYGpw",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/mantar_corbasi-585cf070-790e-4835-bb82-93eadb5b169f.jpg",
+	"yemek_malzeme":" 50 gr tereyağı
+1 soğan
+1 diş sarımsak
+Birkaç dal kekik
+400 gr taze kültür mantarı
+850 ml sebze suyu
+200 ml krema
+Tuz"
+	},
+	{
+	"yemek_id":9,
+	"yemek_adi":"Düğün Çorbası",
+	"yemek_aciklama":"Küçük parçalar şeklinde doğranmış eti ve suyu tencereye alıp haşlayın. Et suyunu süzün. Unu bir kaseye alın. Bir miktar et suyundan ilave edin. Et suyunu ve bulamacı tencereye alıp iyice karıştırın. Un kokusu gidene kadar pişirin. Limon yumurta terbiyesini yavaşça ekleyin. 5 dakika pişirin. Tereyağını tavada eritin. Kırmızı toz biberi ekleyip çorbaya ekleyin. Ekmek garnitürünü üzerine ekleyip servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"30 dk",
+	"yemek_kisi_sayisi":"12 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=LifBShAvsjk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/dugun_corbasi-1c268ded-cbf5-4215-a526-438dc97470c9.jpg",
+	"yemek_malzeme":" 10 su bardağı su
+200 gr kuzu eti
+4 yemek kaşığı un
+1 tatlı kaşığı tuz
+1 ölçü limon~yumurta terbiyesi
+1 ölçü ekmek garnitürü
+30 gr tereyağı
+1 çay kaşığı kırmızı toz biber"
+	},
+	{
+	"yemek_id":10,
+	"yemek_adi":"Nohutlu Tarhana Çorbası",
+	"yemek_aciklama":"Nohudu bol suyla yıkayıp suyunu süzün ve su ekleyip haşlayın. Tarhanayı bir kaseye alıp üzerine 1 su bardağı suyu ilave edin ve karıştırın. Tencereye ayçiçeği yağını ve tereyağını alıp ısıtın. Salçayı ilave edip kavurun. Tarhana ve haşlanmış nohudu ekleyip karıştırın. Kalan suyu da ekleyin ve karıştırın. Tuzu ve karabiberi ekleyin. Su kaynayana kadar karıştırın. Kaynadıktan sonra kısık ateşte 10 dakika pişirin. Ocaktan alıp sıcak servis yapın.",
+	"yemek_tur":"corba",
+	"yemek_pisirme_suresi":"25 dk",
+	"yemek_kisi_sayisi":"8 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=DJwywFLcXro",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/nohutlu_tarhana_corbasi-964e2924-a242-4163-8adf-9d6935da9cdb.jpg",
+	"yemek_malzeme":" 1 su bardağı nohut
+5 yemek kaşığı tarhana
+1 yemek kaşığı acı veya tatlı biber salçası
+1 yemek kaşığı tereyağı
+1 yemek kaşığı ayçiçeği yağı
+5 su bardağı su
+Tuz
+Karabiber
+Kırmızı pul biber
+Kıyılmış maydanoz"
+	},
+	{
+	"yemek_id":11,
+	"yemek_adi":"Çoban Salatası",
+	"yemek_aciklama":"Çoban salatayı hazırlamak için; sap kısımlarını aldığınız sulu ve orta boy domatesleri ince ince doğrayın.
+Kabuğunu soyduğunuz salatalıkları domateslerle uyumlu olacak şekilde kesin.
+Ortadan ikiye kestiğiniz ve çekirdeklerini çıkardığınız yeşil biberleri yarım ay şeklinde kesin.
+Kuru soğanı küçük parçalar halinde ya da arzuya göre ince piyazlık doğrayın. Maydanozu incecik kıyın.
+Kuru soğan dışında kalan doğranmış tüm malzemeyi salata kabında karıştırın. Servis tabağına aldığınız salata üzerine doğranmış kuru soğanları yerleştirin.
+Salatanın sosu için; zeytinyağı, taze sıkılmış limon suyu ve tuzu küçük bir kapta karıştırdıktan sonra salatanın üzerine gezdirin.
+Sosuyla harmanladığınız salatayı, sulanmaması için bekletmeden servis edin. Her türlü ana yemek yanında sevdiklerinizle paylaşın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"20 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=xS121G16n0A",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/nar_eksili_ve_makarnali_coban_salatasi-a04afa16-0416-497c-b459-8159e64cda08.jpg",
+	"yemek_malzeme":" 4 adet orta boy domates
+3 adet orta boy yeşil biber
+2 adet orta boy salatalık
+1 adet büyük boy kuru soğan
+1/4 demet maydanoz 
+5 yemek kaşığı zeytinyağı
+4 yemek kaşığıt aze sıkılmış limon suyu
+1/2 çay kaşığı tuz"
+	},
+	{
+	"yemek_id":12,
+	"yemek_adi":"Bulgur Salatası",
+	"yemek_aciklama":"Pilavlık bulguru sıcak su ile hafif yumuşayana kadar haşlayıp suyunu süzün ve soğumaya bırakın.
+Pancarı rendeleyin. Kornişon turşularını ve közlenmiş biberleri küçük küçük doğrayın.
+Yeşillikleri yıkayıp iyice kurulayın. Daha sonra çok ince kıyın.
+Bulguru geniş bir kaseye alın. Rendelenmiş pancarı, turşuları, doğranmış yeşillikleri, karabiberi ve reyhanı kaseye aktarıp harmanlayın.
+Zeytinyağını, nar ekşisini ve portakal suyunu ekleyerek karıştırın ve bekletmeden servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"55 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=7VWStkS2q0c",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/bulgur-salatasi-eec30b50-3508-46ad-b0d0-cdfb07a211ad.jpg",
+	"yemek_malzeme":" 3 çay bardağı ince pilavlık bulgur
+1.5 su bardağı sıcak su
+2 adet közlenmiş biber
+1 adet pancar rendesi
+4-5 adet kornişon turş
+Tuz
+Bir tutam karabiber
+1/2 demet maydanoz
+4-5 dal taze soğa
+3-4 dal taze nan
+1 tatlı kaşığı kuru reyhan"
+	},
+	{
+	"yemek_id":13,
+	"yemek_adi":"Akdeniz Salatası",
+	"yemek_aciklama":"Yeşillikleri iri doğrayıp geniş bir salata kasesine alın. Dörde böldüğünüz çeri domatesleri ilave edip karıştırın. Sosu için gerekli olan tüm malzemeyi bir kasede karıştırıp salatanın üzerine gezdirin. Dilimlenmiş zeytinlerle süsleyerek servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"20 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=wJJAA31VhKk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/akdeniz_salatasi-103fa53f-cfea-4023-968a-b1d4669bb8f1.jpg",
+	"yemek_malzeme":" 3~4 yaprak marul
+3~4 yaprak lolorosso
+3~4 yaprak göbek marul
+4 kırmızı çeri domates
+4 sarı çeri domates"
+	},
+	{
+	"yemek_id":14,
+	"yemek_adi":"Kırmızı Lahana Salatası",
+	"yemek_aciklama":"Kırmızı lahanayı ince kıyın ve geniş bir kaseye alın. Yarım ay doğradığınız elmayı ve ceviz içini ilave edip karıştırın. Sosu için gerekli olan tüm malzemeyi bir kasede karıştırdıktan sonra salatanın üzerine gezdirin. Karıştırıp servis yapın. ",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"15 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=VEVPtf_9Ypw",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kirmizi_lahana_salatasi-0180905d-d100-44b4-bf2f-a7c6e3202a57.jpg",
+	"yemek_malzeme":" 1 kırmızı lahana
+2 ekşi elma
+Yarım su bardağı iri çekilmiş ceviz içi"
+	},
+	{
+	"yemek_id":15,
+	"yemek_adi":"Bahar Salatası",
+	"yemek_aciklama":"Yıkayıp süzdüğünüz yeşillikleri irice doğrayın. Turpu ince halka formunda doğrayın. Tüm malzemeyi sosuyla birlikte iyice harmanalyın. Kızarttığınız hellim peynirini ilave ederek servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"15 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=n5MC-WaESxo",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/bahar_salatasi-0158d650-5ea0-4909-9c5e-24987082bf6c.jpg",
+	"yemek_malzeme":" 7~8 dal taze soğan
+1 marul
+Yarım su bardağı taze kekik
+1 yeşil biber
+Yarım demet dereotu
+Yarım demet hindiba
+Yarım demet radika
+Yarım demek mascolin salata
+Yarım demet maydanoz
+Yarım demet lolorosso
+Yarım demet fesleğen
+10~12 dal kuzu kulağı
+1 kırmızı turp"
+	},
+	{
+	"yemek_id":16,
+	"yemek_adi":"Yeşil Salatası",
+	"yemek_aciklama":"Marul yapraklarını yıkayıp ince doğrayın. Kabakların kabuğunu temizleyip incecik dilimleyin. Tabanı geniş bir kevgire dizip üzerini bir kapakla kapatın. Kevgiri içinde su kaynayan bir tencerenin üzerine yerleştirip kabak dilimlerini buharda 15 dakika pişirin. Sos için, hardal sos, mayonez ve limon suyunu bir kaseye alıp karıştırın. Zeytinyağını yavaşça ekleyip ara vermeden çırpın. Tuzla tatlandırın. Biberlerin sap kısımlarını kesip çekirdeklerini temizleyin. İnce halkalar şeklinde kesin. Taze soğanları temizleyip yuvarlak parçalar şeklinde doğrayın. Salatalığı yıkayıp kurulayın. Kabuğunu soymadan ince dilimleyin. Dereotunu temizleyip küçük dallar şeklinde koparın. Salata malzemelerini salata kasesine alın. Sosu ekleyip harmanlayın. Dereotu dalları ve ceviz içleriyle süsleyip servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"10 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=3udSO18hw5U",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/yesil_salata-7944031a-291c-4874-94a0-32c73116dd0e.jpg",
+	"yemek_malzeme":" 2 kabak
+2 çarliston biber
+1 taze soğan
+4 yaprak göbek marul
+1 sivri biber
+1 salatalık
+Yarım demet dereotu
+Ceviz içi"
+	},
+	{
+	"yemek_id":17,
+	"yemek_adi":"Karışık Marul Salatası",
+	"yemek_aciklama":"Büyük bir kasenin içine, yıkanmış marul yapraklarını irice koparıp koyun. Semizotu ve maydanozları yaprak yaprak koparıp ilave edin. Kırmızı soğanı piyazlık doğrayın. Kiraz domatesleri ortadan ikiye kesin. Avokadoyu soyup çekirdeğini çıkarın ve elma dilimi şeklinde doğrayın. Kırmızıbiberi halka şeklinde doğrayın. Sarımsakları temizleyip ikişer santimlik parçalar şeklinde kesin. Doğradığınız tüm malzemeyi kaseye alıp harmanlayın. Limon suyu, nar ekşisi, zeytinyağı ve tuzu karıştırıp salatanın üzerine gezdirin. Servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"15 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=tyoZubzRr28",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/karisik_marul_salatasi-c9a60b04-e3b3-4f50-b3e5-716c64d328cf.jpg",
+	"yemek_malzeme":" 1 marul
+5 dal semizotu
+5 dal maydanoz
+1 kırmızı soğan
+6 kiraz domates
+1 avokado
+1 salçalık kırmızıbiber
+2 dal taze sarımsak
+Yarım limonun suyu
+2 yemek kaşığı nar ekşisi
+Yarım çay bardağı zeytinyağı
+Tuz"
+	},
+	{
+	"yemek_id":18,
+	"yemek_adi":"Mantarlı Semizotu Salatası",
+	"yemek_aciklama":"Sosu için tüm malzemeyi bir kavanoza aktarın. İyice çalkalayıp salata hazırlanana kadar bekletin. Mantarları nemli bir bezle silip saplarını koparmadan yağlı kağıdın üzerine aktarın. 170 dereceye ayarlı fırında 15 dakika kadar pişirin. Fırından alın. Semizotunu yıkayıp süzün. Şeftaliyi soyup dilimleyin. Kurutulmuş domatesler çok sertse sıcak suda 15 dakika kadar bekletin ve süzün. Jülyen doğrayıp salata malzemesi ile karıştırın. Salatanın sosunu da ekleyip harmanlayın. En son çok ince dilimlenmiş kaşar peyniri serpin. Servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"25 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=aBr2zSQTxY4",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/mantarli_semizotu_salatasi-810ab47d-7836-463f-bb95-8d1e8f85a3e7.jpg",
+	"yemek_malzeme":" 1 demet semizotu
+1 kase kültür mantarı (tercihen küçük boy olanı)
+1 şeftali
+5~6 yaprak kurutulmuş domates
+30 gr eski kaşar peyniri"
+	},
+	{
+	"yemek_id":19,
+	"yemek_adi":"Ezme Salata",
+	"yemek_aciklama":"Domates, soğan, sarımsak ve biberleri küçük doğrayın ve mutfak robotuna aktarın. Maydanoz, biber salçası, domates salçası ekleyerek hafif pütürlü bir kıvama gelene kadar çekin. Limon suyu, zeytinyağı, tuz, pul biber ve nane ekleyerek karıştırın. Servis tabağına alarak servis yapın.",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"20 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=03kbOZxa3oU",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/ezme_salata-07f61bb5-896c-43d2-ada8-4c77f9882c54.jpg",
+	"yemek_malzeme":" 3 çarliston biber
+3 salçalık kırmızıbiber
+2 domates
+2 soğan
+1 diş sarımsak
+1 tatlı kaşığı domates salçası
+1 tatlı kaşığı biber salçası
+1 limon
+4~5 yemek kaşığı zeytinyağı
+4 yemek kaşığı kıyılmış maydanoz
+Tuz
+Nane
+Kırmızı pul biber"
+	},
+	{
+	"yemek_id":20,
+	"yemek_adi":"Ege Salatası",
+	"yemek_aciklama":"Zeytin ve soğan hariç tüm malzemeleri küp şeklinde doğrayın. Soğanı halka şeklinde doğrayın. Hepsini salata kasesine alın. Sos için zeytinyağı, limon suyu, tuz ve karabiberi karıştırın. Üzerine gezdirip servis yapın. ",
+	"yemek_tur":"salata",
+	"yemek_pisirme_suresi":"15 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=rJlnLa91Avo",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/ege_salatasi-0e4879ee-7254-4ee1-84f3-ca8a6b12270b.jpg",
+	"yemek_malzeme":" 3 domates
+2 salatalık
+5~6 siyah zeytin
+100 gr beyaz peynir
+2~3 kurutulmuş domates
+2 dal kıyılmış taze nane
+2 dal kıyılmış taze fesleğen
+1 kırmızı soğan"
+	},
+	{
+	"yemek_id":21,
+	"yemek_adi":"Kaymaklı İncir Dolması",
+	"yemek_aciklama":"I·ncirleri 4’e, tabanından tamamen kopmayacak s¸ekilde kesin. Ortasına kaymak ve ceviz ic¸i yerles¸tirin. En son bal do¨ku¨n, nane yapragˆı ile su¨sleyip servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"25 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=0Yh_QhzwZ-A",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/incir-ceviz-ve-kaymak-uclusu-330c0301-0a98-4d85-abab-f9eb8231e269.jpg",
+	"yemek_malzeme":" 8 incir
+8 tatlı kas¸ıgˆı kaymak
+8 c¸ay kas¸ıgˆı bal
+2 yemek kas¸ıgˆı kırık ceviz ic¸i
+8 nane yapragˆı"
+	},
+	{
+	"yemek_id":22,
+	"yemek_adi":"Meyveli Güllaç",
+	"yemek_aciklama":"Sütü orta boy bir tencereye koyup, şeker ve vanilyayı ekledikten sonra karıştırın. Orta ısılı ateşte, şeker eriyip, süt kaynayıncaya kadar pişirin.
+Diğer tarafta, orta boy ve kenarları yüksek bir tepsiye 1 adet güllaç yaprağını serin. Üzerine kaynamış sütten yarım kepçe kadar dökün. Güllaç yaprağı yumuşamaya başlayınca ikiye katlayıp D şekli verin. Düz kenarından başlayarak rulo şeklinde sarın. Ruloyu gül şekli oluşturacak şekilde kendi etrafında çevirin. Gül şekli verdiğiniz güllacın şeklini bozmadan bir servis tabağına alın. Diğer güllaç yufkalarına da aynı işlemi uygulayın. Kalan sütü güllaçların üzerinde gezdirip yaprakların sütü iyice çekmesi için 1 saat kadar bekletin. Üzerini çilek dilimleri ve ceviz içi ile süsleyerek servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"45 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=0aqxVf9CqIA",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/meyveli-gullac-5766bcc5-fc96-4967-8418-8b6093faeb68.jpg",
+	"yemek_malzeme":" 9 güllaç yaprağı
+1.5 kg süt
+2 su bardağı toz şeker
+1 paket vanilya"
+	},
+	{
+	"yemek_id":23,
+	"yemek_adi":"Zümrüt Tatlısı",
+	"yemek_aciklama":"Kivi jölesini üzerinde yazdığı gibi hazırlayın. Servis yapacağınız kaselerin tabanına 3’er yemek kaşığı paylaştırın. Üzerlerine ince dilimlenmiş kivileri oturtun ve jölenin donması için bekletin.
+Muhallebisi için yağı bir tencerede eritin. Üzerine un ekleyerek kokusu hafif çıkana kadar kavurun. Kavrulan unun üzerine 4 su bardağı sütü karıştırarak, yavaş yavaş ilave edin. Karışım ılınmaya başlayınca şekeri ekleyin ve sürekli karıştırarak koyulaşana kadar pişirmeye devam edin. Ardından vanilyayı da ilave ederek karıştırın ve ocaktan alın.
+Muhallebiyi 3-4 dakika soğuttuktan sonra iyice soğumuş olan kivili jölenin üzerlerine paylaştırın. Oda sıcaklığına geldikten sonra buzdolabına kaldırarak iyice soğutun. Servis tabağına ters çevirip servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"40 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=7QsPGE_sp1A",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/zumrut-tatlisi-9a4769e5-6743-4a5a-8930-fb82dbb85541.jpg",
+	"yemek_malzeme":" 4 su bardağı süt
+125 g margarin
+1 su bardağı un
+1.5 su bardağı şeker
+1 paket vanilya"
+	},
+	{
+	"yemek_id":24,
+	"yemek_adi":"Havuçlu Kek",
+	"yemek_aciklama":"Bütün malzemeleri mutfak robotunda hafif parçacıklı kalana dek ezin. Kolay çıkarmak için yaklaşık 20 cm’lik kare bir kaba kenarlarından taşacak şekilde yağlı kağıt yerleştirin. Karışımı bastırarak yayın. 1-2 saat buzdolabında bekletin.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"2 sa 15 dk",
+	"yemek_kisi_sayisi":"8 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=xSGunyNvkrI",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/cig-havuclu-kek-sekersiz-glutensiz-ab029bea-0005-4fe6-beea-2914c1b7ec1c.jpg",
+	"yemek_malzeme":" 2 su bardağı Hindistan cevizi tozu
+1+ 1/2 su bardağı ceviz
+3 orta boy havuç (Parçalara bölünmüş)
+1 su bardağı kuru üzüm
+1-2 tatlı kaşığı limon suyu
+1 tatlı kaşığı tarçın"
+	},
+	{
+	"yemek_id":25,
+	"yemek_adi":"Türk Kahveli Cheesecake",
+	"yemek_aciklama":"Bisküvileri rondodan geçirip erittiğiniz tereyağını, toz fındığı ve 1 çay kaşığı Türk kahvesini ekleyerek karıştırın.
+20 cm’lik kelepçeli bir kalıba yağlı kağıt serip, bisküvi karışımını iyice bastırarak yayın. Kalıbı buzdolabına alıp iyice soğutun.
+Bir karıştırma kabına labne peynirini, toz şekeri ve kremayı alıp çırpın. Yumurtaları da tek tek kırarak çırpmaya devam edin.
+Nişasta ve Türk kahvesini de ekleyip karıştırdıktan sonra buzdolabından çıkardığınız kalıba dökerek, önceden ısıtılmış 165 derece fırında 45 dakika kadar pişirin. Soğuyana kadar oda sıcaklığında bekletin. Daha sonra buzdolabına alın ve birkaç saat iyice soğuması için bekletin.
+Kahve şurubu için gerekli olan malzemeleri bir sos tenceresine alın ve kıvam alana kadar karıştırarak pişirip ocaktan alın. Oda sıcaklığında soğuyana kadar bekletin.
+Cheesecake’i buzdolabından çıkarın ve üzerine kahve şurubunu gezdirin. Beyaz çikolata rendesiyle süsleyin ve dilimleyerek servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"1 sa 20 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=jLXflQMb82g",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/turk-kahveli-cheesecake-765aa890-d12a-4515-80e6-3f13f2e76ed6.jpg",
+	"yemek_malzeme":" 600 g labne peyniri
+3 yumurta
+1 paket krema
+3 yemek kaşığı mısır nişastası
+2.5 çay kaşığı Türk kahvesi
+1 çay fincanı şeker
+2 paket yulaflı bisküvi
+60 g tereyağı
+3 yemek kaşığı toz fındık içi"
+	},
+	{
+	"yemek_id":26,
+	"yemek_adi":"Pekmez Soslu Kek",
+	"yemek_aciklama":"Derin bir kabın içine yumurta, pekmez, ayçiçek yağı, kabartma tozu ve unu alın. Homojen bir hale gelene kadar karıştırmaya devam edin. Elde ettiğiniz karışımı, yağladığınız kek kalıbına dökün. Önceden ısıtılmış 180 derece fırında 30-35 dakika pişirin.
+Bu sırada sos tenceresine pekmez, su ve nişastayı alın. Orta ateşte sürekli karıştırarak şeffaf bir hale getirin. Fırından çıkardığınız keki ters çevirerek servis tabağına alın. Hazırladığınız sosu ılık kekin üzerine gezdirin ve dilimleyerek servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"55 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=D2im8AHjSp4",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/pekmez-soslu-kek-86eb6ea2-efbb-4f43-9ce5-93b61ca696d8.jpg",
+	"yemek_malzeme":" 1 yumurta
+1.5 çay bardağı pekmez
+Yarım su bardağı ayçiçek yağı
+1 paket kabartma tozu
+2.5 su bardağı un"
+	},
+	{
+	"yemek_id":27,
+	"yemek_adi":"Lav Kek",
+	"yemek_aciklama":"Bitter çikolatayı benmari usulü eritin. Erimiş çikolatanın içine oda sıcaklığında beklettiğiniz tereyağını katıp karıştırın.
+Çikolatanın sıcaklığıyla eriyen tereyağı karışımına yumurtaları ve yumurta sarısını ekleyin. Spatula yardımıyla karıştırdığınız kek harcına sırasıyla elenmiş pudra şekeri, un ve vanilya özütünü ilave edin
+Sufle kek kalıplarını oda sıcaklığında beklettiğiniz tereyağıyla yağlayın. Üzerlerine kakao eleyip, kek kalıplarının taban ve kenar kısımlarını kakaoyla kaplayın. Hazırladığınız çikolatalı lav kek harcını kek kalıplarına eşit olarak paylaştırın.
+Önceden ısıtılmış 180 derece fırında, 12-15 dakika kadar pişirdikten sonra fırından alın. Ters çevirerek kalıplarından çıkarın ve servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"55 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=xYqAZf_9co4",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/lav-kek-40c8b6e3-1629-4eae-8ee2-2a1ee0cd31a4.jpg",
+	"yemek_malzeme":" 110 g tereyağı
+220 g bitter kuvertür çikolata
+3 yemek kaşığı un
+3 yemek kaşığı pudra şekeri
+2 yumurta
+1 yumurta sarısı
+1 çay kaşığı vanilya özütü
+1 yemek kaşığı kakao"
+	},
+	{
+	"yemek_id":28,
+	"yemek_adi":"Kakaolu Kek",
+	"yemek_aciklama":"Un, toz şeker, karbonat ve tuzu geniş bir kaba alıp harmanlayın. Bir sos tenceresinde su, kakao, tereyağının yarısı ve zeytinyağını karıştırın. Pürüzsüz bir kıvam elde edinceye kadar karıştırarak pişirin. Unlu karışımı ekleyip mikserle çırpın. Yumurtalar, sütün yarısı ve vanilyayı ekleyin. Tüm malzeme iyiyce özdeşleşinceye kadar çırpmaya devam edin.
+Hamuru yağlanmış dikdörtgen bir kek kalıbına alın. Önceden ısıtılmış 175 derece fırında 15 dakika pişirin. Fırından alıp soğumaya bırakın. 
+Sosu için, yağlar, kakao ve sütü bir sos tenceresine alın. Sürekli karıştırarak orta ateşte pişirin. Ocaktan alıp pudra şekerini ilave edin ve karışıma yedirerek karıştırın. Hazırladığınız sosu ılınan kekininizin üstüne döküp kırılmış ceviz içi serpin. Soğuduktan sonra kare dilimleyerek servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"12 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=iUNXDbwqpIM",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kakaolu-kek-6371d650-5e02-40cf-b459-a3fb474ac734.jpg",
+	"yemek_malzeme":" 220 g buğday unu
+260 g toz şeker
+1 tatlı kaşığı karbonat
+Yarım çay kaşığı ince deniz tuzu
+¾ su bardağı su 
+40 g kakao
+50 g tereyağı
+1 yemek kaşığı zeytinyağı
+2 yumurta
+75 ml süt
+2 tatlı kaşığı vanilya"
+	},
+	{
+	"yemek_id":29,
+	"yemek_adi":"Muhallebili Kek",
+	"yemek_aciklama":"Tereyağını bir tavada eritip soğuması için kenara alın. Yumurtaların aklarını ve sarılarını iki ayrı kaseye alın. Yumurta aklarını çırpma kabına alarak katılaşana kadar mikser yardımıyla çırpın. Ayrı bir kapta yumurta sarıları, pudra şekeri, eritilmiş tereyağı ve bir yemek kaşığı suyu ilave ederek bir çırpıcı yardımıyla çırpıp karışıma ekleyin. Bir spatula yardımıyla tüm malzemeyi iyice karıştırın. Son olarak un, süt ve vanilya özünü ilave ederek tüm malzeme özdeşleşinceye kadar karıştırmaya devam edin. Harcı, yağladığınız kek kalıbına dökün. Önceden ısıtılmış 175 derece fırında 50 dakika pişirin. Soğuduktan sonra kare dilimler halinde kesip servis yapın.",
+	"yemek_tur":"tatli",	
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=7lZGUjk3Jjs",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/muhallebi-keki-7cfe607b-ac96-4da5-bbbe-c6188cc262ef.jpg",
+	"yemek_malzeme":" 115 g tereyağı
+4 yumurta
+150 g pudra şekeri
+1 yemek kaşığı su
+115 g un
+480 ml süt
+1 tatlı kaşığı vanilya özü"
+	},
+	{
+	"yemek_id":30,
+	"yemek_adi":"İngiliz Keki",
+	"yemek_aciklama":"Kayısıları ve kuru incirleri ılık su dolu bir kaseye alarak yumuşayıncaya kadar bekletip süzün. Küp formunda doğrayıp ayrı bir kaba alın. Kuru üzüm, ceviz içi, tarçın, badem ve Antep fıstığını ilave edip karıştırın. Zeytinyağı ve pudra şekerini geniş bir kaba alıp iyice çırpın. Üzerine yumurtaları ilave edip çırpmaya devam edin. Un ve kabartma tozunu ekleyip çırpmadan alttan üste doğru bir spatula yardımı ile yavaşça karıştırın. Kuru meyveli karışımı ilave edip bir kaşık yardımıyla karıştırın. Tereyağı ile yağlanmış ve hafif unlanmış baton kek kalıbına dökerek üzerine yer fıstıklarını serpin. Önceden ısıtılmış 175 derece 45-50 dakika pişirin. Soğuduktan sonra dilimleyerek servis yapın.",
+	"yemek_tur":"tatli",
+	"yemek_pisirme_suresi":"1 sa 10 dk",
+	"yemek_kisi_sayisi":"10 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=rTtVYRGy_9Q",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/ingiliz-keki-539954e7-d458-4923-ae44-e0f04df979db.jpg",
+	"yemek_malzeme":" 7~8 kuru kayısı
+6~7 kuru incir
+1 su bardağı kuru üzüm
+Yarım su bardağı iri kırılmış ceviz içi
+1 çay kaşığı tarçın
+Yarım su bardağı çiğ badem
+Yarım su bardağı Antep fıstığı
+15 yemek kaşığı zeytinyağı
+2 su bardağı pudra şekeri
+3 yumurta
+2 su bardağı un
+2 tatlı kaşığı kabartma tozu
+Tereyağı (oda sıcaklığında)"
+	},
+	{
+	"yemek_id":31,
+	"yemek_adi":"İstanbul Pilavı",
+	"yemek_aciklama":"Tavuk etini tencereye alın, suyu ve kereviz yapraklarını ekleyin. Yarım saat haşlayın. Daha sonra suyunu kullanmak üzere bir kaba ayırın. Tavuk eti de soğuyunca elinizle ince ince didikleyin.
+Pirinci sıcak suda 15 dakika bekletin. Daha sonra akan suyun altında birkaç kez yıkayıp süzün.
+Küçük bir tavada Antep fıstığı içini ve bademleri kavurun.
+Dondurulmuş bezelyeleri de 15 dakika haşlayın. Daha sonra süzün.
+Tereyağını pilavı pişireceğiniz tencerede eritin. Süzmüş olduğunuz pirinci, tuzu, şekeri ve baharatını ekleyip kavurmaya başlayın.
+Pirinci 5 dakika kavurduktan sonra 2 bardak sıcak suyu ilave edin. Birkaç taşım kaynayınca tencerenin kapağını kapatın, ateşi de iyice kısın. Pirinçler suyunu çekince tencerenin kapağını açın. Didiklenmiş tavuk etini, haşlayıp süzdüğünüz bezelyeleri, kavurduğunuz Antep fıstığını ve badem içini ekleyin. Karıştırıp tencerenin kapağını kapatın ve demlenmeye bırakın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"40 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=AUUR2SIXvlw",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/istanbul-pilavi-05735d05-b5de-4e4f-8376-184ce11efd6f.jpg",
+	"yemek_malzeme":"1 adet tavuk göğüs eti
+1 lt su (Tavuk etini haşlamak için)
+1 dal kereviz yaprağı (Tavuk etini haşlamak için)
+2 yemek kaşığı tereyağı
+1.5 su bardağı pirinç
+1’er çay kaşığı tuz, zerdeçal, toz şeker
+1 su bardağı bezelye (Dondurulmuş)
+Yarım çay bardağı Antep fıstığı içi
+Yarım çay bardağı badem içi (Çiğ)"
+	},
+	{
+	"yemek_id":32,
+	"yemek_adi":"Pirinç Pilavı",
+	"yemek_aciklama":"Pirinci 1 tatlı kas¸ıgˆı tuz ilave edilmis¸ ılık suda 30 dakika bekletin. Daha sonra akan suyun altında yıkayıp su¨zu¨n. Tereyagˆını ve sıvı yagˆı pilav tenceresinde ısıtın. Yıkayıp su¨zdu¨gˆu¨nu¨z pirinci ekleyin. Su¨rekli karıs¸tırarak 5 dakika kavurun. Limon suyu ile s¸ekeri ilave edip 1 dakika daha kavurun.
+Tencereye 3 su bardagˆı sıcak et suyunu ve tuzu ekleyin. Birkac¸ tas¸ım kaynayınca ates¸i kısın. Tencerenin kapagˆını kapatın. Pirinc¸ler go¨z go¨z olup suyunu c¸ekinceye kadar pis¸irin.
+Pilavı ocaktan alıp ku¨c¸u¨k parc¸alar halinde kesilmis¸ 1 c¸orba kas¸ıgˆı tereyagˆını pilavın u¨zerine serpin. Tencerenin kapagˆını kapatıp 5 dakika demlenmeye bırakın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=8eUFgKsstwQ",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/pirinc-pilavi-6429c91d-e629-47ef-901a-93fde4d2f865.jpg",
+	"yemek_malzeme":"2 yemek kas¸ıgˆı tereyagˆı
+3 c¸orba kas¸ıgˆı sıvı yagˆ
+2 su bardagˆı pirinc¸
+1 tatlı kas¸ıgˆı toz s¸eker
+1 c¸orba kas¸ıgˆı limon suyu
+3 su bardagˆı et suyu
+Tuz"
+	},
+	{
+	"yemek_id":33,
+	"yemek_adi":"Domatesli Arpa Şehriyeli  Pilav",
+	"yemek_aciklama":"Arpa s¸ehriyeleri 1 yemek kas¸ıgˆı tereyagˆıyla birlikte karamel rengi olana dek kavurun. Rendelenmis¸ domatesleri ekleyip birkac¸ dakika daha kavurun. Ha f suyunu c¸ekmeye bas¸layınca sıcak et suyunu, tuzu ve karabiberi ekleyin. Yu¨ksek ates¸te birkac¸ dakika kaynatın. Ates¸i kısın, s¸ehriyeler suyunu c¸ekene dek pis¸irin. Ocaktan alın. Ku¨c¸u¨k parc¸alara ayırdıgˆınız kalan tereyagˆından serpin. Hafifc¸e karıs¸tırıp hemen kapagˆını kapatın. 5 dakika demlendirdikten sonra etle birlikte servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=Hu3RkgMNf1M",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/domatesli-arpa-sehriye-pilavi-ea8c4d43-c9d9-41d5-b32f-ee229a8d01fc.jpg",
+	"yemek_malzeme":"2 su bardagˆı arpa s¸ehriye
+4 su bardagˆı et suyu
+2 yemek kas¸ıgˆı tereyagˆı
+2 domates (Rendelenmis¸)
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":34,
+	"yemek_adi":"Kuşbaşılı Etli Pilav",
+	"yemek_aciklama":"Yemeklik dogˆradıgˆınız sogˆan ve ezdigˆiniz sarımsagˆı tereyagˆında, rengi kahverengi oluncaya kadar kavurun. Kus¸bas¸ı kuzu etleri ve salçaları ilave edip birkaç dakika daha kavurmaya devam edin.
+Pirinç, jülyen dogˆradıgˆınız havuç, tuz ve baharatları ilave edin. Pirinçler s¸e a as¸maya bas¸layıncaya kadar kavurun. Sıcak et suyunu ekleyin ve pirinçler göz göz oluncaya kadar pis¸irip ocaktan alın. Üzerini kagˆıt havlu ile kapatarak dinlenmeye bırakın. Taze kekik ile süsleyerek sıcak servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=LKOBVt_oGyk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kusbasi-etli-pilav-625b0752-dd8b-4499-ac99-a03d01bbdae1.jpg",
+	"yemek_malzeme":"1 sogˆan
+1 dis¸ sarımsak
+3 yemek kas¸ıgˆı tereyagˆı
+200 g kus¸bas¸ı kuzu eti
+1 yemek kas¸ıgˆı biber salçası
+1 yemek kas¸ıgˆı domates salçası
+2 su bardagˆı pirinç
+2 havuç
+Tuz
+Karabiber
+1 çay kas¸ıgˆı kimyon
+3 su bardagˆı et suyu"
+	},
+	{
+	"yemek_id":35,
+	"yemek_adi":"Kastamonu Pilavı",
+	"yemek_aciklama":"Çiğ badem ve kuru üzümü geniş bir kaseye alın. Üzerine su ilave edip 40 dakika kadar bekletin. 
+Yemeklik doğradığınız soğan ve ezdiğiniz sarımsakları zeytinyağında pembeleşinceye kadar soteleyin. Siyez Bulguru, haşlanmış nohut, haşlanmış kuru fasulye, ceviz içi, yumuşayan badem ve üzümleri ilave edip birkaç dakika daha kavurun. Pilavın üzerini iki parmak geçecek kadar su ilave edip tuz ve baharatlarla tatlandırın. Kısık ateşte bulgur suyunu çekinceye kadar pişirip ocaktan alın. Kapağı kapalı olarak 15 dakika dinlendirin. 
+Küp doğradığınız turşular ve ince kıydığınız maydanozu dinlenen pilava ilave edip karıştırın. Sıcak servis yapın. ",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"1 sa 30 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=5uXtSfdiY8w",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kastamonu-pilavi-8bbf76f9-c022-4dd3-8b84-a0d5159d49a4.jpg",
+	"yemek_malzeme":"Yarım çay bardağı kabuksuz badem
+1 çay bardağı kuru sultani üzüm
+3 soğan
+5 diş sarımsak
+Yarım çay bardağı zeytinyağı
+2 su bardağı Siyez bulguru
+200 g haşlanmış nohut
+400 g haşlanmış kuru fasulye
+Yarım çay bardağı ince çekilmiş ceviz içi
+Tuz
+Karabiber
+Kırmızı toz biber
+Zerdeçal
+Lahana turşusu
+Kornişon turşu
+5-6 dal maydanoz"
+	},
+	{
+	"yemek_id":36,
+	"yemek_adi":"Domatesli Pirinç Pilavı",
+	"yemek_aciklama":"Yıkayıp süzdüğünüz pirinci sızma zeytinyağında pembeleşinceye kadar kavurun. Rendelenmiş domates, su ve tuzu ilave edip pirinçler göz göz oluncaya kadar pişirin. Üzerine karabiber serperek sıcak servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"50 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=BWL154IkXBQ",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/domatesli_pirinc_pilavi-c05fca2b-a77a-4f9d-9097-1285c977c254.jpg",
+	"yemek_malzeme":"2 su bardağı baldo pirinç
+7~8 yemek kaşığı sızma zeytinyağı
+2 su bardağı rendelenmiş domates
+1.5 su bardağı su
+Tuz"
+	},
+	{
+	"yemek_id":37,
+	"yemek_adi":"Perde Pilavı",
+	"yemek_aciklama":"Pirinçleri tuzlu sıcak suda 30 dakika bekletin. Antep fıstığını tereyağında kavurun ve ince doğranmış soğanları ilave edin. Kuş üzümlerini suda 5 dakika bekletin. Pirinci ekleyin. Baharatlar, kuş üzümü ve suyu ilave edip pişirin. Yumurta, tuz ve yoğurdu büyük bir kasede çatalla çırpın. Unu ilave ederek yoğurun. 30 dakika dinlendirdiğiniz hamuru bir merdane yardımıyla 30 cm çapında açın. Isıya dayanıklı bir kalıbı tereyağı ile yağlayın. Kalıbın tabanına bademleri sırasıyla dizin. Hamuru bademlerin üzerine kenarlardan sarkacak şekilde yerleştirin. Pilavı ekleyin ve hamuru kapak olarak pilavın üzerine örtün. Üzerine yumurta sarısı sürüp 190 derece fırında kızarıncaya kadar pişirin. Üst kısmı kızarınca fırından çıkarın ve bir fırın tepsisine ters çevirin. Yeniden yumurta sarısı sürerek kızarmayan kısımlarını pişirin. Sıcak servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"1 sa 15 dk",
+	"yemek_kisi_sayisi":"8 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=LvsVPBGuF6Q",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/perde_pilavi-ab762db6-2cc1-431e-86f6-f52de01ff12a.jpg",
+	"yemek_malzeme":"2 su bardağı baldo pirinç
+30 gr tereyağı
+1 soğan
+40 gr Antep fıstığı
+Yarım çay bardağı kuş üzümü
+1 tatlı kaşığı karabiber
+1/4 çay kaşığı tarçın
+Yarım çay kaşığı yenibahar
+3 su bardağı su
+Tuz"
+	},
+	{
+	"yemek_id":38,
+	"yemek_adi":"Kuskus Pilavı",
+	"yemek_aciklama":"Yemeklik doğradığınız soğanları tencerede kavurun. Kuskusu ekleyip kavurmaya devam edin. Kuskus biraz renk aldıktan sonra baharatları ilave ederek karıştırmaya devam edin. Su ve şeker ekledikten sonra suyunu çekene kadar pişirin. Üzerine küp kesilmiş ve kızartılmış ekmek parçaları serpip servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=CZqruPLG-04",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/kuskus_pilavi-ff219ef7-53ae-41cc-add6-bf40b1b156df.jpg",
+	"yemek_malzeme":"1 su bardağı kuskus
+1 soğan
+1 çay kaşığı yenibahar
+Ekmek
+1 tatlı kaşığı toz şeker
+1/4 demet dereotu
+2 su bardağı su
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":39,
+	"yemek_adi":"Güveçte Mantarlı Pilav",
+	"yemek_aciklama":"Pirinci nişastası gidene kadar yıkayın. Üzerine ılık su ekleyip 20 dakika bekletin ve suyunu süzün. Tereyağını tencerede eritin. Yemeklik doğradığınız soğanı ekleyip soteleyin. Pirinci ekleyip şeffaflaşana kadar kavurun. İnce dilimlediğiniz mantarı ekleyip az kavurun. 3 su bardağı tavuk suyunu, tuzu ve karabiberi ekleyip kaynamaya bırakın. Kaynadıktan sonra kısık ateşte pirinçler suyunu çekene kadar pişirin. Haşladığınız patatesleri ezip püre yapın. Üzerine kaşar peyniri, tuz, karabiber ve pul biberi ekleyin karıştırın. Pilavı güveç kaplarına paylaştırın. Üzerine patatesli püreyi ekleyin. Önceden ısıtılmış 200 derece fırında kızarıncaya kadar pişirin. Servis yapın.",
+	"yemek_tur":"pilav",	
+	"yemek_pisirme_suresi":"1 sa 20 dk",
+	"yemek_kisi_sayisi":"8 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=VrhzOaIP9LI",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/guvecte_mantarli_pilav-4656f0a9-ad2c-4737-ac65-79aa97106f80.jpg",
+	"yemek_malzeme":"2 su bardağı baldo pirinç
+300 gr mantar
+1 soğan
+1/4 demet kıyılmış dereotu
+2 yemek kaşığı tereyağı
+3 su bardağı tavuk suyu
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":40,
+	"yemek_adi":"Müceddere Pilavı",
+	"yemek_aciklama":"Mercimekleri yıkadıktan sonra üzerini örtecek şekilde orta boy bir tencerede suyla haşlayın. Soğumaya bırakın. Soğanı zeytinyağıyla 5 dakika kavurun. Pirinci ilave edip 5 dakika daha kavurun. Daha sonra pişen mercimeği, tuzu, karabiberi ve 4 su bardağı suyu ilave edin. Kısık ateşte üzerini kapatmadan, suyunu çekinceye kadar karıştırarak pişirin. Pilav piştikten sonra 15 dakika kadar dinlendirin. Servis yapın.",
+	"yemek_tur":"pilav",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=T0RkVSZQyck",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/muceddere_pilavi-46d953dd-b8e8-40e7-b18b-3209be64bb57.jpg",
+	"yemek_malzeme":"2 su bardağı yeşil mercimek
+1 su bardağı pirinç
+1 ince doğranmış soğan
+3 yemek kaşığı zeytinyağı
+1 tatlı kaşığı tuz
+1 tatlı kaşığı karabiber
+4 su bardağı su"
+	},
+	{
+	"yemek_id":41,
+	"yemek_adi":"Yaz Güveci",
+	"yemek_aciklama":"Kuşbaşı kuzu etlerini yapışmaz yüzeyli bir tavada mühürleyin. Kırmızı soğanı halka doğrayıp fırın güvecinizin tabanına dizin. Arpacık soğanlar, küp doğradığınız kabak, patlıcan, domates, ortadan ikiye kestiğiniz fasulyeler ve kuşbaşı kuzu etlerini geniş bir kasede karıştırıp güvece alın. Defne yapraklarını ilave edin ve güvecin üzerine zeytinyağı gezdirin. Tuz ve baharatlarla tatlandırıp önceden ısıtılmış 180 derece fırında iki saat pişirin. Sıcak servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=WyXmfACe058",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/yaz_guveci-0eef9d60-4f0e-4b81-99a4-d81e9684fec5.jpg",
+	"yemek_malzeme":"500 kuşbaşı kuzu eti
+1 kırmızı soğan
+7~8 arpacık soğan
+1 kabak
+1 patlıcan
+10~12 taze fasulye
+1 domates
+2 domates
+2 defne yaprağı
+Zeytinyağı
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":42,
+	"yemek_adi":"Etli Bezelye Yemeği",
+	"yemek_aciklama":"Yemeklik doğradığınız soğan ve kuşbaşı dana etini zeytinyağında soteleyin. Etlerin renkleri dönmeye başlayınca salçayı ilave edip karıştırın. Üzerini bir parmak geçecek kadar su ilave edip kaynatın. Kaynadıktan sonra altını kısıp kapağı kapalı olarak 20 - 25 dakika pişirin. Ayıkladığınız bezelye, iri doğradığınız sarımsak, kuru domates ve kuru biberi ekleyip 15 dakika daha pişirin. Üzerini ince kıydığınız dereotu ile süsleyerek sıcak servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"1 sa 10 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=iefxDJtfR7w",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/etli_bezelye_yemegi-dc720c3e-e5a2-4cae-99a7-93d8e9cf318a.jpg",
+	"yemek_malzeme":"300 g kuşbaşı dana eti
+300 g iç bezelye
+5~6 kuru domates
+2~3 kuru biber
+1 soğan
+2 diş sarımsak
+1 tatlı kaşığı biber salçası
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":43,
+	"yemek_adi":"Tepsi Kebabı",
+	"yemek_aciklama":"Bir karıştırma kabına kıyma, soğan, maydanoz, sivri biber, sarımsak, kimyon, tuz, karabiber ve pul biberi alarak özdeşleşene kadar iyice yoğurun. Malzemeler birbirine iyice karışınca, yuvarlak bir fırın tepsisine kıymalı karışımı ellerinizle bastırarak yayın ve üzerini düzleştirin. Bıçak yardımıyla 8 dilim olacak şekilde dilimleyin.
+Eritilmiş tereyağını kebabın üzerine dökün ve fırça yardımıyla her yerine gelecek şekilde yağlayın. Biber salçası ile suyu karıştırın ve kebabın üzerine dökün. Biberleri boydan ikiye bölün ve domatesleri dilimleyin. Kebabın üzerine sırasıyla dizin. Önceden ısıtılmış 190 derece fırında 40 dakika pişirip sıcak servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=RMLnfIyCqXM",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/tepsi-kebabi-f28521bf-a198-4170-b7eb-f70153fd3c73.jpg",
+	"yemek_malzeme":"1 kg kıyma (Dana/kuzu karışık)
+ 1 adet soğan (İnce kıyılmış)
+ 1 demet maydanoz (İnce kıyılmış)
+ 2 sivri biber (İnce doğranmış)
+ 3 diş sarımsak (Dövülmüş)
+ 1/2 tatlı kaşığı kimyon
+ 1/2 tatlı kaşığı tuz
+ 1/2 tatlı kaşığı karabiber
+ 1/2 tatlı kaşığı kırmızı pul biber
+ 4 yemek kaşığı tereyağı (Eritilmiş)
+ 1.5 yemek kaşığı biber salçası
+ 1 su bardağı su (Biber salçasını sulandırmak için)"
+	},
+	{
+	"yemek_id":44,
+	"yemek_adi":"Mücver",
+	"yemek_aciklama":"Kabakları rendeleyip, biraz tuz ile su¨zgec¸te 30 dakika bekletin. Maydanoz, dereotu ve taze sogˆanı ince kıyıp, derin bir karıs¸tırma kabına alın. Peyniri rendeleyin, yumurtaları ayrı bir kasede c¸ırpın ve yes¸illiklerin oldugˆu kaba aktarın. U¨zerine unu ve rendelenmis¸ kabakları ilave edip karıs¸tırın. Tuz ve karabiber ile tatlandırın. U¨zerini strec¸ film ile kapatıp buzdolabına alarak 1 saat bekletin. Dondurma kas¸ıgˆı ile alarak 200 derece ısıtılmıs¸ sızma zeytinyagˆında kızartın. Kagˆıt havlu u¨zerine koyarak fazla yagˆını c¸ektirin. Servis tabagˆına alın ve yanında su¨zme yogˆurtlu semizotu salatası ile servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=5-d-xcD7lS8",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/mucver-d9f7244c-efa5-47da-bfac-2f3528280e61.jpg",
+	"yemek_malzeme":"4 bu¨yu¨k kabak
+Yarım demet maydanoz
+Yarım demet dereotu
+1 demet taze sogˆan
+250 g beyaz peynir (Tercihen Ezine peyniri)
+2 yumurta
+4 yemek kas¸ıgˆı un
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":45,
+	"yemek_adi":"Fırında Musakka",
+	"yemek_aciklama":"Patlıcanları alacalı soyup yuvarlak doğrayın. Yağlı kağıt serili fırın tepsisine dizip üzerine zeytinyağı gezdirin, tuz ve karabiber serpin. Önceden ısıtılmış 200 derece fırında patlıcanlar kızarıncaya kadar yaklaşık 25-30 dakika pişirin.
+Kıymalı harç için yemeklik doğradığınız soğanı ve ezdiğiniz sarımsakları zeytinyağında soğanlar pembeleşinceye kadar soteleyin. Kıymayı ilave edin ve rengi dönünceye kadar kavurun. Rendelediğiniz domates, salçalar, tuz ve karabiberi ilave edin. Kıyma suyunu çekinceye kadar yaklaşık 20 dakika kısık ateşte pişirip ocaktan alın.
+Kremalı sos için tereyağını bir sos tenceresinde eritin. Unu ekleyip rengi dönünceye kadar kavurun. Süt ve kremayı ilave edin, topaklanmaması için sürekli karıştırın. Muskat rendesi, tuz ve karabiberi ekleyip, sos kıvam almaya başlayıncaya kadar pişirin ve ocaktan alın.
+Patlıcanları hafif yağladığınız fırın kabının tabanına dizin. Üzerine kıymalı harçtan ekleyip tekrar patlıcan dizin. Tüm malzeme bitinceye kadar aynı işlemi tekrarlayın. En üste kremalı sostan yayıp, rendelenmiş taze kaşar peynirini serpin. Önceden ısıtılmış 180 derece fırında 15-20 dakika daha pişirip fırından alın. Dilimleyip sıcak servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"45 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=g_kyne2uo0I",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/firinda-musakka-0c46126e-9197-4903-8b8e-aa9ab1c7c1de.jpg",
+	"yemek_malzeme":"3 patlıcan
+Zeytinyağı
+Tuz
+Karabiber
+1 soğan
+4 diş sarımsak
+2 yemek kaşığı zeytinyağı
+800 g kuzu kıyma
+1 domates
+1 yemek kaşığı domates salçası
+1 yemek kaşığı biber salçası
+Tuz
+Karabiber"
+	},
+	{
+	"yemek_id":46,
+	"yemek_adi":"Barbunya Köftesi",
+	"yemek_aciklama":"Has¸lanmıs¸ barbunyayı yogˆurma kabına aktarın. Yumurtayı, peynirleri, kıyılmıs¸ dereotunu, galeta ununu, havanda ezilmis¸ sarımsakları, tuzu ve karabiberi ekleyin. I·yice karıs¸tırdıktan sonra azar azar un ilave ederek karıs¸ımı ko¨fte kıvamında yogˆurun.
+Ko¨fte harcından yumurta bu¨yu¨klu¨gˆu¨nde parc¸alar koparıp avucunuzun ic¸inde yassılas¸tırın. Ko¨fte hamurlarını o¨nce c¸ırpılmıs¸ yumurta akına, sonra eski kas¸ar peyniri ile harmanlanmıs¸ unlu karıs¸ıma bulayın. Kızgın yagˆda her iki tarafını kızartıp servis tabagˆına alın ve sıcak servis yapın. Dilerseniz servis o¨nerisindeki gibi hamburger hazırlayıp servis yapabilirsiniz.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"60 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=MQLrm0XOaZ0",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/barbunya-koftesi-0b53bd15-8366-4a0c-b5ca-28ab5f27aa2a.jpg",
+	"yemek_malzeme":"1 su bardagˆı has¸lanmıs¸ barbunya
+1 yumurta
+100 g lor peyniri
+1 c¸ay bardagˆı rendelenmis¸ eski kas¸ar peyniri
+Yarım demet dereotu
+1 kahve fincanı galeta unu
+2 dis¸ sarımsak
+Tuz
+Karabiber
+1 yumurta akı (Hafif c¸ırpılmıs¸)
+1 c¸ay bardagˆı un
+1 c¸ay bardagˆı ayc¸ic¸ek yagˆı
+1 yemek kas¸ıgˆı rendelenmis¸ eski kas¸ar peyniri"
+	},
+	{
+	"yemek_id":47,
+	"yemek_adi":"Zeytinyağlı Taze Fasulye",
+	"yemek_aciklama":"Taze fasulyelerin kenarlarındaki kılçıklarını temizleyip yıkayın. Kabuğunu soyduğunuz soğanları boyuna ikiye kesin, kalın bir bıçağın sırtıyla üzerine bastırarak yaprak yaprak ayrılmasını sağlayın. Soğanları zeytinyağının yarısıyla yumuşayana kadar kavurun.
+Kavurduğunuz soğanları bir kaseye alın ve tencerenin içine fasulyeleri bütün olarak yerleştirin. Tencereyi sallayıp 5 dakika kadar kavurun. Sonra fasulyelerin üzerine kavurup kenara ayırdığınız soğanları serpin. Zar şeklinde doğradığınız domatesleri, tuzu ve şekeri de serpin. Sıcak suyu ekleyin.
+Yüksek ateşte 5 dakika pişirin. Sonra ateşi kısıp tencerenin kapağını kapatın. Yaklaşık 1 saat pişirin. Ocaktan almaya 5 dakika kala, kalan zeytinyağını gezdirin. Tencerenin kapağını açmadan oda ısısında soğutun. Daha sonra buzdolabına alıp dinlendirin ve soğuk servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"45 dk",
+	"yemek_kisi_sayisi":"5 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=mXdrngQ1qfg",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/zeytinyagli-taze-fasulye-2996062a-860e-4cf8-b6ad-d99434ac55a9.jpg",
+	"yemek_malzeme":"1 kg taze fasulye
+1 çay bardağı sızma zeytinyağı
+4-5 adet arpacık soğan
+1 adet büyük boy domates
+1 tatlı kaşığı toz şeker
+Tuz
+1 su bardağı sıcak su"
+	},
+	{
+	"yemek_id":48,
+	"yemek_adi":"Bademli Tavuk Sote",
+	"yemek_aciklama":"Tavuk göğüs etini 1 yemek kaşığı pekmez, ince kıyılmış sarımsaklar ve sirke ile karıştırın.
+Pekmezli tavuk etleri ve bademleri iyice ısıtılmış geniş bir tavada, 1 yemek kaşığı sıvı yağla birlikte kavurun. Rengi değişince ocaktan alıp kenarda bekletin.
+Aynı tavanın içine 1 yemek kaşığı sıvı yağ ekleyip sırasıyla ince doğranmış soğanı ve biberleri ekleyin.
+yemek kaşığı sıcak su ekleyerek sotelemeye devam edin. Kavurduğunuz sebzeleri ocaktan alıp tavuk etlerinin üzerine serpin.
+Tavanın içine kalan 1 yemek kaşığı sıvı yağı ekleyip domates püresini ilave edin. Birkaç dakika karıştırarak pişirin. Tavuklu sebzeli karışımı, tuzu ve baharatını ilave edin. Yüksek ateşte birkaç dakika kaynattıktan sonra en son sıcak suyu ekleyin. Tavanın kapağını kapatın, orta ateşte, 15 dakika pişirin.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"45 dk",
+	"yemek_kisi_sayisi":"4 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=rrVTqau7bfk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/bademli-tavuk-sote-2f5f5bbe-04b3-46cd-b797-dc61e8add834.jpg",
+	"yemek_malzeme":"300 g parça tavuk göğüs eti
+200 g parça tavuk but
+2 yemek kaşığı pekmez
+2 diş sarımsak
+1 tatlı kaşığı sirke
+3 yemek kaşığı sıvı yağ
+1 büyük boy soğan (İnce doğranmış)
+3 adet sivri biber (İnce doğranmış)
+1-2 adet kapya biber (İnce doğranmış)
+2 yemek kaşığı su
+1 su bardağı domates püresi
+Tuz, karabiber, kırmızı pul biber, kimyon
+1 su bardağı sıcak su"
+	},
+	{
+	"yemek_id":49,
+	"yemek_adi":"Tavuk Etli Bazlama",
+	"yemek_aciklama":"Bazlama ekmeklerini ku¨c¸u¨k kareler s¸eklinde dogˆrayın ve yagˆlı kagˆıt serili fırın tepsisine yayın. O¨nceden ısıtılmıs¸ 180 derece fırında, 20 dakika kadar kurutun.
+Tavuk etlerini iyice ısıtılmıs¸ tencerede suyunu salıp c¸ekene kadar sıvı yagˆla birlikte kavurun. Dogˆradıgˆınız sogˆanları, kırmızı toz biberi ve tuzu da ilave edip, kısık ates¸te karıs¸tırarak kavurun. Kavrulmus¸ etlerin u¨zerine salc¸aları ekleyin. Birkac¸ dakika daha kavurup yes¸il biberlerle domatesleri de ilave edin. Yu¨ksek ates¸te su¨rekli karıs¸tırarak 10 dakika pis¸irin.
+Fırında kuruttugˆunuz bazlama ekmeklerini bu¨yu¨k bir servis tabagˆına alın. U¨zerlerine tavuk etli karıs¸ımı do¨ku¨n. Yanında veya u¨zerinde sarımsaklı yogˆurt ile birlikte servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"1 sa 10 dk",
+	"yemek_kisi_sayisi":"6 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=sjqhBMtFZ3g",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/tavuk-etli-bazlama-92ebe818-1c81-4498-a29d-dc252e43cd47.jpg",
+	"yemek_malzeme":"2 adet bazlama ekmegˆi
+500 g tavuk eti (C¸ok ince dogˆranmıs¸)
+3 yemek kas¸ıgˆı sıvı yagˆ
+2 orta boy sogˆan (I·nce dogˆranmıs¸)
+1 yemek kas¸ıgˆı domates salc¸ası
+1 tatlı kas¸ıgˆı biber salc¸ası
+2 yes¸il sivri biber (I·nce dogˆranmıs¸)
+2 domates (Ku¨p dogˆranmıs¸)
+Tuz
+Kırmızı toz biber
+4 su bardagˆı su
+500 g yogˆurt
+2 dis¸ sarımsak"
+	},
+	{
+	"yemek_id":50,
+	"yemek_adi":"Çökertme Kebabı",
+	"yemek_aciklama":"Dana bon leyi s¸erit halinde dilimleyin ve tereyagˆında soteleyin. Kuru kekik, pul biber, feslegˆen, tuz ve tane karabiber ile tatlandırın. 2 dis¸ sarımsagˆı ezip yogˆurt ile karıs¸tırın. Domateslerin kabuklarını soyup ku¨p s¸eklinde dogˆrayın. Zeytinyagˆını bir tavaya alın. Havuc¸, kereviz sapı, kuru sogˆan ve kalan sarımsakları ince dogˆrayıp ekleyin. Birkac¸ dakika kavurun. Domatesleri ilave ederek kavurmaya devam edin. Domatesler suyunu c¸ekince ocaktan alın ve blender’dan gec¸irip domates sos elde edin.
+Patatesleri kibrit c¸o¨pu¨ s¸eklinde dogˆrayın ve derin yagˆda kızartın. Kagˆıt havlu u¨zerine alarak fazla yagˆını c¸ektirin. Tabagˆın en altına hazırladıgˆınız domates sosunu yayın. U¨zerine dagˆılmadan durması ic¸in varsa ku¨c¸u¨k bir c¸ember kalıp ile kibrit patatesleri ve onun u¨zerine soteledigˆiniz bon le parc¸alarını yerles¸tirin. En u¨stu¨ne ızgarada pis¸irdigˆiniz yarım domatesi ve sivri biberi koyun. Tabağın etrafına sarımsaklı yoğurt do¨ku¨p servis yapın.",
+	"yemek_tur":"anaYemek",
+	"yemek_pisirme_suresi":"1 sa 20 dk",
+	"yemek_kisi_sayisi":"2 Kişilik",
+	"yemek_video":"https://www.youtube.com/watch?v=1FTlAgYpRxk",
+	"yemek_resim":"https://lezzet.blob.core.windows.net/images-xxlarge-recipe/cokertme-kebabi-3d1d86bd-2899-4a38-8cd6-2447c16013c1.jpg",
+	"yemek_malzeme":"200 g dana bonfile
+2 patates
+100 g yoğurt
+4 dis¸ sarımsak
+2 sivri biber
+30 g tereyağı
+3 domates
+20 g havuc¸
+20 g kuru soğan
+10 g kereviz sapı
+2 yemek kaşığı zeytinyağı
+2 dal taze kekik
+Kuru fesleğen
+Kuru kekik
+Kırmızı pul biber
+Tuz
+Tane karabiber"
+	}
+	
+]}
