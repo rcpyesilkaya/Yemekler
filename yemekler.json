@@ -24,8 +24,7 @@ Tuz, karabiber ve bol suda yıkadıktan sonra suyunu süzdürdüğünüz 1,5 su 
 	{
 	"yemek_id":2,
 	"yemek_adi":"Sütlü Buğday Çorbası",
-	"yemek_aciklama":"Yarma buğdayı bir tencereye alın ve üzerini geçecek kadar su ekleyip 20 dakika kadar haşlayın. Sütü ve tuzu ilave edip 10 dakika daha kaynatın.
-Tereyağını küçük bir sos tavasında eritin ve sumağı ekleyip ha?f kavurun. Çorbayı servis kaselerine paylaştırdıktan sonra üzerlerine sumaklı tereyağını gezdirip servis yapın.",
+	"yemek_aciklama":"Yarma buğdayı bir tencereye alın ve üzerini  geçecek kadar su ekleyip 20 dakika kadar haşlayın. Sütü ve tuzu ilave edip 10 dakika daha kaynatın.Tereyağını küçük bir sos tavasında eritin ve sumağı ekleyip harf kavurun. Çorbayı servis kaselerine paylaştırdıktan sonra üzerlerine sumaklı tereyağını gezdirip servis yapın.",
 	"yemek_tur":"corba",
 	"yemek_pisirme_suresi":"25 dk",
 	"yemek_kisi_sayisi":"4 Kişilik",
@@ -1017,5 +1016,4 @@ Kırmızı pul biber
 Tuz
 Tane karabiber"
 	}
-	
 ]}
